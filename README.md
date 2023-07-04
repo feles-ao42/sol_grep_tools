@@ -1,8 +1,12 @@
 # sol_grep_tools
 
+# What can you do?
+- ./htmlに課題を入れると、中身をパースして、output.txtにまとめて保存されます。
+- htmlのtagベースで分類してます。
+
 ## Requiment
 - Language : python3
-- Library : bs4
+- Library : bs4　
 
 ## Installation
 - `pip3 install bs4`
